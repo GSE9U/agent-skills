@@ -1,0 +1,22 @@
+# repo_git_url  ruta_dentro_del_repo  (una skill por línea)
+https://github.com/mattpocock/skills.git  skills/productivity/grill-me
+https://github.com/mattpocock/skills.git  skills/productivity/grilling
+https://github.com/mattpocock/skills.git  skills/productivity/handoff
+https://github.com/mattpocock/skills.git  skills/engineering/grill-with-docs
+https://github.com/mattpocock/skills.git  skills/engineering/domain-modeling
+https://github.com/mattpocock/skills.git  skills/engineering/setup-matt-pocock-skills
+https://github.com/mattpocock/skills.git  skills/engineering/to-spec
+https://github.com/mattpocock/skills.git  skills/engineering/implement
+https://github.com/mattpocock/skills.git  skills/engineering/tdd
+https://github.com/mattpocock/skills.git  skills/engineering/diagnosing-bugs
+https://github.com/mattpocock/skills.git  skills/engineering/code-review
+https://github.com/mattpocock/skills.git  skills/engineering/resolving-merge-conflicts
+https://github.com/mattpocock/skills.git  skills/engineering/codebase-design
+https://github.com/mattpocock/skills.git  skills/engineering/prototype
+https://github.com/cursor/plugins.git  cursor-team-kit/skills/thermo-nuclear-code-quality-review
+https://github.com/steipete/agent-scripts.git  skills/create-cli
+https://github.com/jakubkrehel/make-interfaces-feel-better.git  skills/make-interfaces-feel-better
+https://github.com/emilkowalski/skills.git  skills/emil-design-eng
+https://github.com/emilkowalski/skills.git  skills/review-animations
+https://github.com/emilkowalski/skills.git  skills/animation-vocabulary
+https://github.com/emilkowalski/skills.git  skills/pick-ui-library

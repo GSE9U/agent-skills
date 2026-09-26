@@ -100,3 +100,7 @@ Para añadir o quitar una skill de terceros, edita `scripts/sources.txt`. De dó
 
 - Claude Code trae un `/code-review` propio. Si te molesta que se pisen, renombra la carpeta y el `name:` de la skill (por ejemplo, `review-two-axis`) y cambia la referencia en `implement/SKILL.md`.
 - Las skills de trabajo que dependan de un repo concreto van en el `.agents/skills/` de ese repo, no aquí.
+
+## Licencia
+
+Lo propio de este repo (scripts y skills que no vienen de terceros) es [MIT](LICENSE). Cada skill de terceros mantiene su licencia original, también MIT, que está en `LICENSES/`.
